@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\filza\filza\src\srv\FilzaServer\obj\Debug\net6.0\FilzaServer.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\filza\filza\src\srv\FilzaServer\obj\Debug\net6.0\FilzaServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\filza\filza\src\srv\FilzaServer\obj\Debug\net6.0\FilzaServer.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\filza\filza\src\srv\FilzaServer\obj\Debug\net6.0\FilzaServer.AssemblyInfo.cs
+C:\Users\lucas\Documents\filza\filza\src\srv\FilzaServer\obj\Debug\net6.0\FilzaServer.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\filza\filza\src\srv\FilzaServer\bin\Debug\net6.0\FilzaServer.exe
+C:\Users\lucas\Documents\filza\filza\src\srv\FilzaServer\bin\Debug\net6.0\FilzaServer.deps.json
+C:\Users\lucas\Documents\filza\filza\src\srv\FilzaServer\bin\Debug\net6.0\FilzaServer.runtimeconfig.json
+C:\Users\lucas\Documents\filza\filza\src\srv\FilzaServer\bin\Debug\net6.0\FilzaServer.dll
+C:\Users\lucas\Documents\filza\filza\src\srv\FilzaServer\bin\Debug\net6.0\FilzaServer.pdb
+C:\Users\lucas\Documents\filza\filza\src\srv\FilzaServer\obj\Debug\net6.0\FilzaServer.dll
+C:\Users\lucas\Documents\filza\filza\src\srv\FilzaServer\obj\Debug\net6.0\refint\FilzaServer.dll
+C:\Users\lucas\Documents\filza\filza\src\srv\FilzaServer\obj\Debug\net6.0\FilzaServer.pdb
+C:\Users\lucas\Documents\filza\filza\src\srv\FilzaServer\obj\Debug\net6.0\FilzaServer.genruntimeconfig.cache
+C:\Users\lucas\Documents\filza\filza\src\srv\FilzaServer\obj\Debug\net6.0\ref\FilzaServer.dll
