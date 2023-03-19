@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tTx823sS/Px4iDSatNWu1i/RO92+ynMuIHh4lfKBMCJK19oIRL0+M4uRQIygprTb152bGZ9LO8mwdCNVA4xblQ==",
+  "dgSpecHash": "U7pTvPwJ0zx6V/JQz5V1CtBMne5LNeq0Mzqrc65NoEPwB4Y4KlM5E1KOq5pF6lXm5eLo+6QMlB9V+lQodeM4lQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\lucas\\Documents\\filza\\filza\\src\\srv\\FilzaServer\\FilzaServer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
